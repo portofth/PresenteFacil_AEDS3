@@ -79,10 +79,12 @@ O TP4 é um projeto separado, desenvolvido como uma aplicação web estática em
 
 ## Equipe
 
-- Fabiano Queiroz Guimarães Almeida
-- Mateus Evangelista do Nascimento
-- Fernando Theodoro Porto de Paula Dias
 - Diogo Patrick Cesário de Oliveira
+- Fabiano Queiroz Guimarães Almeida
+- Fernando Theodoro Porto de Paula Dias
+- Mateus Evangelista do Nascimento
+
+
 
 ## Resumo dos entregáveis
 
